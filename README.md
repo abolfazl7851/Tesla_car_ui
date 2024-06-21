@@ -1,16 +1,11 @@
-# tesla_car_ui
+![Screenshot_2024-06-21-11-29-57-956_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/77b6769e-65ed-44f3-88bc-64de8bc6b8aa)# tesla_car_ui
 
-A new Flutter project.
+Animated Flutter App (tesla car UI).
+![Screenshot_2024-06-21-11-29-52-459_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/adbde611-1161-49b2-8310-c67da1957c7e)
 
-## Getting Started
+![Screenshot_2024-06-21-11-29-57-956_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/37c524d2-4678-47af-8457-9a2ed883b7e3)
 
-This project is a starting point for a Flutter application.
+![Screenshot_2024-06-21-11-30-10-096_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/2ef0ec4d-1bd7-40d4-a186-9ef24d452d96)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_2024-06-21-11-30-22-272_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/83a3505b-45f9-4713-ac3c-428df3f0814c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
