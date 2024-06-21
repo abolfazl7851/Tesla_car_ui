@@ -1,11 +1,15 @@
-![Screenshot_2024-06-21-11-29-57-956_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/77b6769e-65ed-44f3-88bc-64de8bc6b8aa)# tesla_car_ui
+# tesla_car_ui
 
 Animated Flutter App (tesla car UI).
-![Screenshot_2024-06-21-11-29-52-459_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/adbde611-1161-49b2-8310-c67da1957c7e)
 
-![Screenshot_2024-06-21-11-29-57-956_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/37c524d2-4678-47af-8457-9a2ed883b7e3)
 
-![Screenshot_2024-06-21-11-30-10-096_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/2ef0ec4d-1bd7-40d4-a186-9ef24d452d96)
+![Screenshot_2024-06-21-11-29-52-459_com example tesla_car_ui](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/c53541b1-b6a4-485f-80e9-306e95fb82fe)
 
-![Screenshot_2024-06-21-11-30-22-272_com example tesla_car_ui 1](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/83a3505b-45f9-4713-ac3c-428df3f0814c)
+![Screenshot_2024-06-21-11-29-57-956_com example tesla_car_ui](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/d616eb6a-52b5-485d-b91e-1c6dbb2dc6ce)
+
+![Screenshot_2024-06-21-11-30-10-096_com example tesla_car_ui](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/7ccd8acb-7c88-4261-95e9-f41bcd9c4a3a)
+
+![Screenshot_2024-06-21-11-30-22-272_com example tesla_car_ui](https://github.com/abolfazl7851/tesla_car_ui/assets/53060465/e5df244d-f56b-4e4c-93b6-5ae3ac0a63b8)
+
+
 
